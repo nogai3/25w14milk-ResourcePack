@@ -1,0 +1,68 @@
+Made by glackus!
+Made by Mojang!
+Made by LighSync!
+25w14milk!
+Because i`m in Milk Block?
+private milkBlock = new MilkBlock();
+System.out.println("Written in Java");
+0 != 1
+Hello, World!
+Snapshot by LighSync Games.
+RayTracing joined game...
+jeb_ joined game...
+glackus joined game...
+wandarmo joined game...
+KAPITANKASTET joined game...
+PLYTONI joined game...
+Give me iron!
+What? It`s creeper?
+Creeper it`s mistake!
+CRAFT THE ARROW
+MILKBLOCK THE BEST BLOCK IN THIS GAME
+OPEN THE ARROW CLASSFILE
+Starting Gradle Daemon...
+net.minecraft.client.main.Main
+FNAG that`s good!
+Also try GlackuS!
+Also try FNAG!
+Also try LighSync Games.
+Nerkin fan!
+Made in Sweden, and Kazakhstan!
+La-Baggueti Warriore
+99% bug free!
+jeb_ is watching you...
+glackus is watching you...
+wandarmo is watching you...
+PLYTONI is watching you...
+KAPITANKASTET is watching you...
+Nerkin_ is watching you...
+if (game == Minecraft) { return theBestGameEver(); }
+All done!
+This game will be updating!
+Optimized for Bread PC`s!
+Find issue? It`s Mojang!!! Not LighSync!!!
+jeb_ - god!
+kingbdogz - god!
+glackus - god!
+wandarmo - god!
+PLYTONI - god!
+KAPITANKASTET - god!
+Nerkin_ - god!
+jeb_ - drops jeb block
+glackus and others - drops milk bucket
+(C) LighSync Games. 2023-2025.
+(C) Mojang AB. 2009-2025.
+Java 30!
+Created with: IntelliJ IDEA (Community)
+Created by: Markus Persson, Carried out: Jens Bergensten, Carry now: Agnes Larsson, Gleb Ustimenko!!!
+April fools!
+Idk what is it?
+42587u90823475oHGFLHGK, cat at keyboard
+99% of code, written by my cat! Филя
+0.1% of code, written by my cat! Серый
+0.5% of code, written by my dog! Mary
+0.5% of code, written by glackus!
+More milky!
+"You write the code and I'll add it" - Nathan Addams (Dinnerbone)
+"My favorite color is beach ball" - Jens Bergensten (jeb_)
+"Debuging in runtime - is very efficient" - Markus Persson (Notch)

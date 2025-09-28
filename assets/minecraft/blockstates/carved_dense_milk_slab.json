@@ -1,0 +1,13 @@
+{
+    "variants": {
+      "type=bottom": {
+        "model": "minecraft:block/carved_dense_milk_slab"
+      },
+      "type=double": {
+        "model": "minecraft:block/carved_dense_milk_block"
+      },
+      "type=top": {
+        "model": "minecraft:block/carved_dense_milk_slab_top"
+      }
+    }
+}

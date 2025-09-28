@@ -1,0 +1,8 @@
+{
+    "parent": "minecraft:block/inner_stairs",
+    "textures": {
+      "bottom": "minecraft:block/dense_milk_block",
+      "side": "minecraft:block/dense_milk_block",
+      "top": "minecraft:block/dense_milk_block"
+    }
+}
