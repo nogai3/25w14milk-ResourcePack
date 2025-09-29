@@ -20694,16 +20694,6 @@
     ],
     "subtitle": "subtitles.event.raid.horn"
   },
-  "event.jeb_says": {
-    "sounds": [
-        "event/jeb_says/block1",
-        "event/jeb_says/block2",
-        "event/jeb_says/block3",
-        "event/jeb_says/block4",
-        "event/jeb_says/block5"
-    ],
-    "subtitle": "subtitles.event.jeb_says"
-  },
   "item.armor.equip_chain": {
     "sounds": [
       "item/armor/equip_chain1",
@@ -23978,5 +23968,15 @@
       "ambient/weather/rain4"
     ],
     "subtitle": "subtitles.weather.rain"
+  },
+  "event.jeb_says": {
+    "sounds": [
+      "event/jeb_says/block1",
+      "event/jeb_says/block2",
+      "event/jeb_says/block3",
+      "event/jeb_says/block4",
+      "event/jeb_says/block5"
+    ],
+    "subtitle": "subtitles.jeb_says"
   }
 }
