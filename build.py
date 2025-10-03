@@ -2,7 +2,7 @@ import json, shutil, os
 from pathlib import Path
 
 DATA = Path("assets/minecraft")
-VERSION = "v1.4-rc3"
+VERSION = "v1.4"
 
 def build(version):
     current = Path(version)
